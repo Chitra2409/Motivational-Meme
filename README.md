@@ -9,7 +9,7 @@ This is a simple website designed to inspire and motivate visitors with a powerf
 You can clone this repository and modify the content to create your own motivational post website. To get started, follow these steps:
 
 1. Clone the repository to your local machine:
-   git clone 
+   git clone https://github.com/Chitra2409/Motivational-Meme.git
 
 3. Replace the existing image (`assets/images/motivational-image.jpg`) with your own motivational image.
 
