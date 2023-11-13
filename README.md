@@ -2,7 +2,7 @@
 
 # Motivational Post Website
 
-This is a simple website designed to inspire and motivate visitors with a powerful message. The website features a motivational quote along with an image to create a visually appealing and inspirational experience.
+This is a simple website designed to inspire and motivate visitors with a powerful message. The website features a motivational quote along with an image to create a visually appealing and inspirational experience. This is just a test project, to try my hands on HTML and CSS.
 
 ## Usage
 
